@@ -67,5 +67,5 @@ gem 'jquery-rails' #bootstrapを追加
 gem 'devise' #deviseを追加
 gem "font-awesome-sass"
 
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'mini_magick'
